@@ -15,6 +15,7 @@ The Sync Realtime Chat App is a full-stack web application designed to provide r
 - **Front-end:** React.js, HTML, CSS
 - **Back-end:** Node.js, Express.js
 - **HTTP Requests:** Axios
+- **Database:** chatengine.io
 - **Real-time Communication:**Socket.IO
 - **Deployment:** Heroku
 
